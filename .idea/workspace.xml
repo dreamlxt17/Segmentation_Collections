@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbb7c44e-3714-4aff-b749-c3ab791d2d6e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/losses_tensorflow.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/torch_losses.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/models/unet.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,82 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="losses_tensorflow.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/losses_tensorflow.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="130" column="40" lean-forward="false" selection-start-line="130" selection-start-column="40" selection-end-line="130" selection-end-column="40" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="e#48#71#0" expanded="true" />
-                <element signature="e#160#394#0" expanded="false" />
-                <element signature="e#437#474#0" expanded="false" />
-                <element signature="e#520#815#0" expanded="false" />
-                <element signature="e#872#1581#0" expanded="false" />
-                <element signature="e#872#1022#1" expanded="false" />
-                <element signature="e#1090#1407#0" expanded="false" />
-                <element signature="e#1607#1619#0" expanded="false" />
-                <element signature="e#1682#2492#0" expanded="false" />
-                <element signature="e#1717#2475#0" expanded="false" />
-                <element signature="e#1896#2000#0" expanded="false" />
-                <element signature="e#2080#2356#0" expanded="false" />
-                <element signature="e#2123#2356#0" expanded="false" />
-                <element signature="e#2520#2726#0" expanded="false" />
-                <element signature="e#2554#2709#0" expanded="false" />
-                <element signature="e#2754#3022#0" expanded="false" />
-                <element signature="e#2788#3005#0" expanded="false" />
-                <element signature="e#2837#2980#0" expanded="false" />
-                <element signature="e#3059#3597#0" expanded="false" />
-                <element signature="e#3093#3581#0" expanded="false" />
-                <element signature="e#3338#3556#0" expanded="false" />
-                <element signature="e#3381#3556#0" expanded="false" />
-                <element signature="e#3652#3941#0" expanded="false" />
-                <element signature="e#3987#4023#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="torch_losses.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/torch_losses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="190" column="72" lean-forward="true" selection-start-line="190" selection-start-column="72" selection-end-line="190" selection-end-column="72" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="e#214#741#0" expanded="false" />
-                <element signature="e#252#320#0" expanded="false" />
-                <element signature="e#371#741#0" expanded="false" />
-                <element signature="e#786#1182#0" expanded="false" />
-                <element signature="e#827#1082#0" expanded="false" />
-                <element signature="e#879#910#0" expanded="false" />
-                <element signature="e#1133#1182#0" expanded="false" />
-                <element signature="e#1222#2087#0" expanded="false" />
-                <element signature="e#1263#1389#0" expanded="false" />
-                <element signature="e#1440#2087#0" expanded="false" />
-                <element signature="e#1440#1484#0" expanded="false" />
-                <element signature="e#2145#2652#0" expanded="false" />
-                <element signature="e#2391#2485#0" expanded="false" />
-                <element signature="e#2696#3539#0" expanded="false" />
-                <element signature="e#2737#2817#0" expanded="false" />
-                <element signature="e#2868#3539#0" expanded="false" />
-                <element signature="e#2868#2903#0" expanded="false" />
-                <element signature="e#3566#4303#0" expanded="false" />
-                <element signature="e#3566#3635#1" expanded="false" />
-                <element signature="e#3687#3770#0" expanded="false" />
-                <element signature="e#3822#4303#0" expanded="false" />
-                <element signature="e#3934#4283#0" expanded="false" />
-                <element signature="e#4341#5249#0" expanded="false" />
-                <element signature="e#4410#4631#0" expanded="false" />
-                <element signature="e#4679#5249#0" expanded="false" />
-                <element signature="e#4815#4923#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,6 +31,7 @@
         <option value="$PROJECT_DIR$/loss_utils.py" />
         <option value="$PROJECT_DIR$/losses.py" />
         <option value="$PROJECT_DIR$/torch_losses.py" />
+        <option value="$PROJECT_DIR$/models/unet.py" />
       </list>
     </option>
   </component>
@@ -145,6 +70,11 @@
             <path>
               <item name="Segmentation_Colloections" type="b2602c69:ProjectViewProjectNode" />
               <item name="Segmentation_Colloections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Segmentation_Colloections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Segmentation_Colloections" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,40 +157,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="130" column="40" lean-forward="false" selection-start-line="130" selection-start-column="40" selection-end-line="130" selection-end-column="40" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#48#71#0" expanded="true" />
-            <element signature="e#160#394#0" expanded="false" />
-            <element signature="e#437#474#0" expanded="false" />
-            <element signature="e#520#815#0" expanded="false" />
-            <element signature="e#872#1581#0" expanded="false" />
-            <element signature="e#872#1022#1" expanded="false" />
-            <element signature="e#1090#1407#0" expanded="false" />
-            <element signature="e#1607#1619#0" expanded="false" />
-            <element signature="e#1682#2492#0" expanded="false" />
-            <element signature="e#1717#2475#0" expanded="false" />
-            <element signature="e#1896#2000#0" expanded="false" />
-            <element signature="e#2080#2356#0" expanded="false" />
-            <element signature="e#2123#2356#0" expanded="false" />
-            <element signature="e#2520#2726#0" expanded="false" />
-            <element signature="e#2554#2709#0" expanded="false" />
-            <element signature="e#2754#3022#0" expanded="false" />
-            <element signature="e#2788#3005#0" expanded="false" />
-            <element signature="e#2837#2980#0" expanded="false" />
-            <element signature="e#3059#3597#0" expanded="false" />
-            <element signature="e#3093#3581#0" expanded="false" />
-            <element signature="e#3338#3556#0" expanded="false" />
-            <element signature="e#3381#3556#0" expanded="false" />
-            <element signature="e#3652#3941#0" expanded="false" />
-            <element signature="e#3987#4023#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/torch_losses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="190" column="72" lean-forward="true" selection-start-line="190" selection-start-column="72" selection-end-line="190" selection-end-column="72" />
+        <state relative-caret-position="630">
+          <caret line="173" column="24" lean-forward="true" selection-start-line="173" selection-start-column="24" selection-end-line="173" selection-end-column="24" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
             <element signature="e#214#741#0" expanded="false" />
@@ -289,6 +193,24 @@
             <element signature="e#4410#4631#0" expanded="false" />
             <element signature="e#4679#5249#0" expanded="false" />
             <element signature="e#4815#4923#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/pspnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/unet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="155" column="25" lean-forward="true" selection-start-line="155" selection-start-column="25" selection-end-line="155" selection-end-column="25" />
+          <folding>
+            <element signature="e#47#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
